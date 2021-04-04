@@ -1,0 +1,27 @@
+.cursor-pointer {
+  cursor: pointer;
+  color: rgb(77, 117, 190);
+}
+.user-list {
+  color: rgb(168, 112, 39);
+  width: 50%;
+  font-size: 22px;
+}
+.user-name {
+  color: rgb(168, 112, 39);
+  font-weight: 400;
+}
+.user-selected {
+  color: rgb(77, 117, 190);
+  font-size: "20px";
+  font-weight: bold;
+}
+
+.title {
+  color: rgb(77, 117, 190);
+  font-size: "25px";
+  text-align: center;
+}
+.list-group {
+  width: 23%;
+}
